@@ -1,5 +1,7 @@
 Welcome to kitchen!
 Kheer
 
+Beans
+Pizza
 
 Thank you :)
